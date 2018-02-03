@@ -1,8 +1,6 @@
 
 # pr-oversight-board-scraper 
- 
-This work is in support of a PR-based non-profit organization.  
- 
+  
 ## Background 
 The Puerto Rico Oversight & Management Board (herein referred to as the Board) posts documents related to their activities on a website. As of Jan. 26, 2018, the website URL is juntasupervision.pr.gov. It is desirable to know when new documents are posted and which category they belong to. Also, mainly due to the Board's website warranties (or lack thereof) (see [1]), it is appropriate to store the documents elsewhere and detect whether the content of an already posted document has changed.  
  
